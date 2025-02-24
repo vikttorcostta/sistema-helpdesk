@@ -1,0 +1,6 @@
+{
+    "require-dev": {
+        "ibex/crud-generator": "^2.1",
+        "laravel/breeze": "^2.3"
+    }
+}
